@@ -3,6 +3,8 @@
 Missing Person Database &amp; Face Recognition
 This repository contains a Python notebook **Face-Recognition.ipynb** implementing a face recognition system. This system allows users to add missing persons to a database along with their current and childhood photos and relevant information. Additionally, it provides functionality to search for a person's match based on an uploaded photo.
 
+[![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/drive/1Z7wxEWmcgMRur_TnA5Z5EYY4Rd9Ia_gb?usp=sharing]
+
 **The idea, in short,** is that any missing person, child, or lost elderly person suffering from Alzheimer's disease or anything else... can easily be identified by photographing them and matching these photos with the photos entered by the missing person's family in the database, and each photo contains complete information about him and contact numbers.
 
 **Application**
